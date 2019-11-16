@@ -2,4 +2,5 @@
 KhoaPham trainning da chinh sua
 commit git cach 2
 IOS Android Node
+hello
 
